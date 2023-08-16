@@ -26,7 +26,7 @@ The Address Book Application provides a simple and convenient way to manage your
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/address-book-application.git
+   git clone https://github.com/Aatifkhan-lab/CODSOFT_Task5-AddressBookSystem.git
 
 2. Compile the Java source code:
 
